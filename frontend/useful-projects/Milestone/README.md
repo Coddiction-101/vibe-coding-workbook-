@@ -3,14 +3,6 @@
 A clean, minimalist visualization of your life from birth to expected lifespan, highlighting milestones and showing **“You are here.”**  
 Designed to be personal, emotional, and shareable.
 
-[Live Demo](#) • [Source Code](#)
-
----
-
-## Preview
-
-![App Screenshot](./assets/preview.png)
-
 ---
 
 ## Highlights
